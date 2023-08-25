@@ -27,7 +27,7 @@ metadata:
   labels:
     example: "true"
   name: lovely-octopus-test
-  namespace: argocd
+  namespace: default
 spec:
   arguments:
     parameters:
